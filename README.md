@@ -1,6 +1,6 @@
 # Bitcoin Data Mining
 
-Bu proje, Bitcoin ile ilgili veri madenciliği ve analiz çalışmalarını kapsamaktadır. Proje, Python ve Jupyter Notebook kullanılarak gerçekleştirilmiştir..
+Bu proje, Bitcoin ile ilgili veri madenciliği ve analiz çalışmalarını kapsamaktadır. Proje, Python ve Jupyter Notebook kullanılarak gerçekleştirilmiştir.
 
 ## Proje İçeriği
 
